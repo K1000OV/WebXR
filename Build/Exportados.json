@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "WebXR_Fuego",
+"productVersion": "0.1",
+"dataUrl": "Exportados.data.unityweb",
+"wasmCodeUrl": "Exportados.wasm.code.unityweb",
+"wasmFrameworkUrl": "Exportados.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
